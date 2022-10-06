@@ -67,7 +67,7 @@ $ ruby challenge01.rb
 As seguintes ferramentas/tecnologias foram usadas na construção e teste do projeto.
 <br>
 
-| logo               | Framework                  | Version      |
+| logo               | Tecnologia                 | Version      |
 | :----------------- | :------------------------- | :----------: |
 | <a href="https://vuejs.org/"><img align="center" alt="vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></a>| Ruby  |  `2.3.3`       |
 
