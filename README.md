@@ -23,11 +23,20 @@ Olá, como vai?! Meu nome é Gabriel e estou participando do processo seletivo d
 
  Este desafio consiste em 6 challenges:
 
- * Interação com os métodos( GET e POST)
- * Listagem de usuários;
- * Remover os usuários;
- * Editar os usuários
- * Validação de formulário;
+ *1- Dado um número n, retorne o número de números ímpares positivos abaixo de n. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge01.rb" target=_blank></a>
+  
+  *2
+  
+ *3- Escreva uma função que retorne o valor máximo e mínimo de uma determinada lista repassada.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge03.rb" target=_blank></a>
+ 
+ *4- Escreva uma função que irá elevar ao quadrado cada dígito de um número e concatená-los. Por
+exemplo, se executarmos 9119 através da função, 811181 sairá, porque 9² é 81 e 1² é 1. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge04.rb" target=_blank></a>
+
+
+ *5- Faça um programa que filtre uma lista de strings e retorne uma lista apenas com o nome de seus amigos.
+Se um nome tem exatamente 4 letras, pode ter certeza que é amigo seu, caso contrário, não é seu amigo.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge05.rb" target=_blank></a>
+ 
+ *6 Validação de formulário;
 
 
 <br>
