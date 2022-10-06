@@ -23,20 +23,20 @@ Olá, como vai?! Meu nome é Gabriel e estou participando do processo seletivo d
 
  Este desafio consiste em 6 challenges:
 
- *1- Dado um número n, retorne o número de números ímpares positivos abaixo de n. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge01.rb" target=_blank></a>
+ *1- Dado um número n, retorne o número de números ímpares positivos abaixo de n. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge01.rb" target=_blank>challenge 1</a>
   
-  *2
+  *2- Não finalizado.
   
- *3- Escreva uma função que retorne o valor máximo e mínimo de uma determinada lista repassada.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge03.rb" target=_blank></a>
+ *3- Escreva uma função que retorne o valor máximo e mínimo de uma determinada lista repassada.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge03.rb" target=_blank>challenge 3</a>
  
  *4- Escreva uma função que irá elevar ao quadrado cada dígito de um número e concatená-los. Por
-exemplo, se executarmos 9119 através da função, 811181 sairá, porque 9² é 81 e 1² é 1. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge04.rb" target=_blank></a>
+exemplo, se executarmos 9119 através da função, 811181 sairá, porque 9² é 81 e 1² é 1. Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge04.rb" target=_blank> challenge 4</a>
 
 
  *5- Faça um programa que filtre uma lista de strings e retorne uma lista apenas com o nome de seus amigos.
-Se um nome tem exatamente 4 letras, pode ter certeza que é amigo seu, caso contrário, não é seu amigo.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge05.rb" target=_blank></a>
+Se um nome tem exatamente 4 letras, pode ter certeza que é amigo seu, caso contrário, não é seu amigo.  Desafio => | <a href="https://github.com/Gabrielmirandaxl/challenges-segfy/blob/master/challenge05.rb" target=_blank> challenge 5</a>
  
- *6 Validação de formulário;
+ *6 não finalizado;
 
 
 <br>
